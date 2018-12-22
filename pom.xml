@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.kvarela</groupId>
   <artifactId>pvp-example</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <packaging>kjar</packaging>
   <name>pvp-example</name>
   <description>Plugable persistence variable on processes custom data object</description>
