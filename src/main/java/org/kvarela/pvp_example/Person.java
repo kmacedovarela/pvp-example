@@ -5,6 +5,7 @@ package org.kvarela.pvp_example;
  */
 
 @javax.persistence.Entity
+@javax.persistence.Table(name = "Person")
 public class Person implements java.io.Serializable {
 
 	static final long serialVersionUID = 1L;
