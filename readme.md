@@ -1,4 +1,4 @@
-Persisting objects with JPA PVP
+Pluggable Variable Persistence with JPA Example
 =======================
 
 
