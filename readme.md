@@ -1,4 +1,7 @@
-Repository Init Content
+Persisting objects with JPA PVP
 =======================
 
-Your project description here.
+
+Plugable persistence variable on processes custom data object. 
+
+Details on: https://karinavarela.me/2018/12/22/persisting-custom-process-variables-in-different-db-on-jbpm/ 
